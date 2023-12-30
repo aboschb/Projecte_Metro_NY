@@ -1,4 +1,4 @@
-# Projecte_Metro_NY: Impacte dels incidents del Metro de Nova York en l'experiència dels usuaris.
+# Títol del Projecte: Impacte dels incidents del Metro de Nova York en l'experiència dels usuaris.
 Descripció del projecte:
 
 El projecte consisteix en l'anàlisi combinada de dos conjunts de dades rellevants del metro de la ciutat de Nova York. El primer, "MTA Subway Major Incidents (2015-2019)", inclou informació detallada sobre incidents ocorreguts en aquest sistema de transport entre 2015 i 2019. Aquest dataset proporciona dades sobre la naturalesa, ubicació i moment dels incidents, oferint una visió completa dels reptes operacionals del metro de Nova York.
